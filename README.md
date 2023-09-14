@@ -22,4 +22,7 @@ i.e.
 Updating weight is present in the agent tools but currently not working ☹️
 
 
-See the video under the `/demo` folder for how it should work!
+## Demo
+
+https://github.com/The-Please-Advisory-Group/built-at-ai-takeover-9-13/assets/9594539/00ad543a-c800-4dae-abbb-2f56abf7331c
+
