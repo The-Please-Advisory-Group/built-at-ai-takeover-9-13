@@ -2,6 +2,7 @@
 
 ## setup
 Create an account at ascendtms.com
+
 Get an API key from openai
 
 Make a copy of base.env and rename it to .env, fill in values
